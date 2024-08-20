@@ -1,7 +1,7 @@
 
 # Task-oriented LLM Bot
 
-Code accompaniment for the paper [Are Large Language Models All You Need for Task-Oriented Dialogue?]() (Hudeček & Dušek, SIGDIAL 2023).
+Code accompaniment for the paper [Are Large Language Models All You Need for Task-Oriented Dialogue?](https://aclanthology.org/2023.sigdial-1.21/) (Hudeček & Dušek, SIGDIAL 2023).
 
 ### Installation
 
